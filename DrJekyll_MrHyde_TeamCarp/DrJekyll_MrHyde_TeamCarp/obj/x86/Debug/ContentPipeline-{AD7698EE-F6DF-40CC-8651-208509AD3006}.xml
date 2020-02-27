@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\GUI\CreditsMenu.png</Source>
+      <Name>Textures\GUI\CreditsMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\GUI\CreditsMenu.xnb</Output>
+      <Time>2018-11-28T11:42:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\Menu.png</Source>
+      <Name>Textures\GUI\Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\GUI\Menu.xnb</Output>
+      <Time>2018-12-11T13:13:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\MenuPointer.png</Source>
+      <Name>Textures\GUI\MenuPointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\GUI\MenuPointer.xnb</Output>
+      <Time>2018-11-28T11:42:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\OptionsMenu.png</Source>
+      <Name>Textures\GUI\OptionsMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\GUI\OptionsMenu.xnb</Output>
+      <Time>2018-11-22T14:36:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\DrJekyll.png</Source>
+      <Name>Textures\Assets\DrJekyll</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\DrJekyll.xnb</Output>
+      <Time>2018-11-29T14:09:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\Level_Background.png</Source>
+      <Name>Textures\Assets\Level_Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\Level_Background.xnb</Output>
+      <Time>2018-11-30T11:07:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Tiles\1.png</Source>
+      <Name>Textures\Tiles\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Tiles\1.xnb</Output>
+      <Time>2018-11-30T09:48:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\Level_BackgroundNM.png</Source>
+      <Name>Textures\Assets\Level_BackgroundNM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\Level_BackgroundNM.xnb</Output>
+      <Time>2018-12-05T13:02:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\MrHyde.png</Source>
+      <Name>Textures\Assets\MrHyde</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\MrHyde.xnb</Output>
+      <Time>2018-12-05T13:24:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\MrHydeNM.png</Source>
+      <Name>Textures\Assets\MrHydeNM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\MrHydeNM.xnb</Output>
+      <Time>2018-12-05T13:24:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\WarpHitBox.png</Source>
+      <Name>Textures\Assets\WarpHitBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\WarpHitBox.xnb</Output>
+      <Time>2018-12-06T21:55:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\GameOver.png</Source>
+      <Name>Textures\GUI\GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\GUI\GameOver.xnb</Output>
+      <Time>2018-12-06T14:39:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\Winscreen.png</Source>
+      <Name>Textures\GUI\Winscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\GUI\Winscreen.xnb</Output>
+      <Time>2018-12-06T14:39:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\highscoreBackground.png</Source>
+      <Name>Textures\GUI\highscoreBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\GUI\highscoreBackground.xnb</Output>
+      <Time>2018-12-10T23:34:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\Street.png</Source>
+      <Name>Textures\Assets\Street</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\Street.xnb</Output>
+      <Time>2018-12-07T08:59:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\StreetNM.png</Source>
+      <Name>Textures\Assets\StreetNM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\StreetNM.xnb</Output>
+      <Time>2018-12-07T08:59:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\Dr. Jekyll Sprite copy.png</Source>
+      <Name>Textures\Assets\Dr. Jekyll Sprite copy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\Dr. Jekyll Sprite copy.xnb</Output>
+      <Time>2018-12-07T09:05:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\DrugStore.png</Source>
+      <Name>Textures\Assets\DrugStore</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\DrugStore.xnb</Output>
+      <Time>2018-12-07T09:06:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\grönPotionFlaska.png</Source>
+      <Name>Textures\Assets\grönPotionFlaska</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\grönPotionFlaska.xnb</Output>
+      <Time>2018-12-07T09:05:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\gulPotionFlaska.png</Source>
+      <Name>Textures\Assets\gulPotionFlaska</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\gulPotionFlaska.xnb</Output>
+      <Time>2018-12-07T09:05:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\hydesRum.png</Source>
+      <Name>Textures\Assets\hydesRum</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\hydesRum.xnb</Output>
+      <Time>2018-12-11T01:17:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\Inventory.png</Source>
+      <Name>Textures\Assets\Inventory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\Inventory.xnb</Output>
+      <Time>2018-12-07T09:05:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\jekyllsHus.png</Source>
+      <Name>Textures\Assets\jekyllsHus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\jekyllsHus.xnb</Output>
+      <Time>2018-12-11T03:53:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\jekyllsLabb.png</Source>
+      <Name>Textures\Assets\jekyllsLabb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\jekyllsLabb.xnb</Output>
+      <Time>2018-12-07T11:01:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\Lykta.png</Source>
+      <Name>Textures\Assets\Lykta</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\Lykta.xnb</Output>
+      <Time>2018-12-07T09:09:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\Rödpotionflaska.png</Source>
+      <Name>Textures\Assets\Rödpotionflaska</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\Rödpotionflaska.xnb</Output>
+      <Time>2018-12-07T09:14:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\WhitePowder1.png</Source>
+      <Name>Textures\Assets\WhitePowder1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\WhitePowder1.xnb</Output>
+      <Time>2018-12-07T09:23:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\Nyckel 1.png</Source>
+      <Name>Textures\Assets\Nyckel1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\Nyckel1.xnb</Output>
+      <Time>2018-12-07T09:31:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\marketSquare.png</Source>
+      <Name>Textures\Assets\marketSquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\marketSquare.xnb</Output>
+      <Time>2018-12-07T09:49:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\Intro1.png</Source>
+      <Name>Textures\GUI\Intro1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\GUI\Intro1.xnb</Output>
+      <Time>2018-12-10T18:52:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\Inventory.png</Source>
+      <Name>Textures\GUI\Inventory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\GUI\Inventory.xnb</Output>
+      <Time>2018-12-10T19:20:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\Intro2.png</Source>
+      <Name>Textures\GUI\Intro2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\GUI\Intro2.xnb</Output>
+      <Time>2018-12-11T05:34:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Assets\marketSquareNM.png</Source>
+      <Name>Textures\Assets\marketSquareNM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\Textures\Assets\marketSquareNM.xnb</Output>
+      <Time>2018-12-11T05:50:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>DeferredCombined.fx</Source>
+      <Name>DeferredCombined</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\DeferredCombined.xnb</Output>
+      <Time>2018-12-05T11:59:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MultiTarget.fx</Source>
+      <Name>MultiTarget</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\MultiTarget.xnb</Output>
+      <Time>2018-12-05T11:59:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2018-12-10T20:47:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2018-12-11T00:49:18+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{AD7698EE-F6DF-40CC-8651-208509AD3006}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarpContent\</RootDirectory>
+      <LoggerRootDirectory>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\DrJekyll_MrHyde_TeamCarp (Färdiga Spelet)\DrJekyll_MrHyde_TeamCarp\DrJekyll_MrHyde_TeamCarp\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-12-15T11:00:51.5894043+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

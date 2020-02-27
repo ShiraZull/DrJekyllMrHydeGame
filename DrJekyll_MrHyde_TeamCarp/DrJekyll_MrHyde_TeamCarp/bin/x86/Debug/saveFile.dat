@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<SaveData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Date>
+    <string>null</string>
+    <string>null</string>
+    <string>null</string>
+    <string>null</string>
+    <string>null</string>
+  </Date>
+  <Score>
+    <int>99999000</int>
+    <int>99999000</int>
+    <int>99999000</int>
+    <int>99999000</int>
+    <int>99999000</int>
+  </Score>
+  <Count>5</Count>
+</SaveData>
